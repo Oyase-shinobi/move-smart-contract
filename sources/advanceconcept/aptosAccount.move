@@ -17,4 +17,4 @@
 //       *balance = *balance + coin.amount;
 //       Coin { amount: _ } = coin;
 //   }
-// }
+// }              
